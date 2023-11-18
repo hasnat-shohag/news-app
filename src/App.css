@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.main-content{
+  /* display: flex;
+  justify-content: space-between; */
+  /* text-align: center; */
+}
+.news-search{
+  padding: 20px;
+  font-size: 30px;
+}
